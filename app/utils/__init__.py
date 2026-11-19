@@ -1,0 +1,1 @@
+"""Small pure helpers shared by routes and service adapters.""""""Small pure helpers shared by routes and service adapters."""
